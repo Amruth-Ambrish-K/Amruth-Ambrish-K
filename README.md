@@ -56,7 +56,7 @@
 
 ## Git-hub Logs: 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-Ambrish-K&layout=compact&hide=html" width='400' alt="Amruth-Ambrish-k" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amruth-Ambrish-K&show_icons=true" width='400' alt="Amruth-Ambrish-K" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amruth-Ambrish-K&show_icons=true" width='400' alt="Amruth-Ambrish-K" /></p>
 
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https://twitter.com/AmbrishAmruth&screen_name=AmbrishAmruth
