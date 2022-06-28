@@ -12,7 +12,7 @@
 
 - 👯 &ensp;I’m happy to collaborate with **other Developers and Content creators**
 
-- ⚡ &ensp;Seeker 
+- ⚡ &ensp;Seeker---Zoophilist
 
 - 🏍 &ensp;Fun fact: A developer who loves cooking
 
