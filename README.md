@@ -14,7 +14,7 @@
 
 - ⚡ &ensp;Seeker---Zoophilist
 
-- 🏍 &ensp;Fun fact: A developer who loves cooking
+- 🏍 &ensp;Fun fact: A developer who loves animals
 
 - 😄 &ensp;Pronouns:  He/him
 
